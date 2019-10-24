@@ -4,4 +4,4 @@ Material for the workshop
 
 at [OpenMR Benelux 2020](https://openmrbenelux.github.io/page-openmrb-2020/)
 
- - Repository under construction - 
+~ Repository under construction ~
