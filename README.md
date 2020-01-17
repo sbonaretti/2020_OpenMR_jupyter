@@ -6,9 +6,8 @@
 Set up for workshop: 
 
 - See the video below: 
-
-
   [![Video](https://img.youtube.com/vi/UNFvChDn6mk/0.jpg)](https://youtu.be/UNFvChDn6mk)
   
-- Or follow the instructions below: 
+- Or follow the instructions below:   
+
   ~ coming soon! ~
