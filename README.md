@@ -2,9 +2,11 @@
 
 ### Workshop at [OpenMR Benelux 2020](https://openmrbenelux.github.io/page-openmrb-2020/)
 
+--- 
+
 In this workshop, you will learn the basics of Jupyter notebook, python, and SimpleITK 
 
-Set up for workshop: 
+### Set up 
 
 - See the video below: 
 
