@@ -11,4 +11,8 @@ Set up for workshop:
   
 - Or follow the instructions below:   
 
-  ~ coming soon! ~
+  1. Download Anaconda, a python platform:  
+     - Go to [anaconda.com/distribution](https://www.anaconda.com/distribution/) and click on `download`  
+     - Select your operating system and click on `download`
+     - Once downloaded, install anaconda as you would do for any software. 
+
