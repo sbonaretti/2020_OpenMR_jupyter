@@ -31,5 +31,7 @@ In this workshop, you will learn the basics of Jupyter notebook, python, and Sim
 If you have any issue during the installation, go to the top of this page, click the tab `Issue`, and open an new issue. I will be happy to reply to you. 
 
 
+See you at the workshop!
+
 
 
