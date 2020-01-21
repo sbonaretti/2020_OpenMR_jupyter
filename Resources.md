@@ -1,6 +1,6 @@
 # JupyterLab
 It is a web-based interactive development environment  
-guide.readthedocs.io/en/latest/index.html)   
+- [Guide](guide.readthedocs.io/en/latest/index.html)   
 - Website: https://jupyter.org/
 - Video tutorial: [Getting Started with JupyterLab | SciPy 2019 Tutorial](https://www.youtube.com/watch?v=RFabWieskak)  
 - Extensions list: on [GitHub](https://github.com/topics/jupyterlab-extension)
@@ -15,7 +15,7 @@ It is a web application to create documents that contain live code, equations, v
 - Live coding tutorial: [markdown tutorial](https://www.markdowntutorial.com/)
 
 # Python  
-- Live coding tutorial: [https://www.learnpython.org/](https://www.learnpython.org/), [w3school](https://www.w3schools.com/python/default.asp)
+- Live coding tutorial: [https://www.learnpython.org/](https://www.learnpython.org/), [w3schools](https://www.w3schools.com/python/default.asp)
 - List of resources: [python website](https://www.python.org/about/gettingstarted/)  
 - Online courses (free/paid): [Coursera](https://www.coursera.org/), [DataCamp](https://www.datacamp.com/), [Udacity](https://www.udacity.com/) 
 - More: YouTube (PyData, SciPy), Google Search, Blogs  
@@ -31,6 +31,7 @@ It is a web application to create documents that contain live code, equations, v
 - Handbook: [SimpleITK Documentation](https://readthedocs.org/projects/simpleitk/downloads/pdf/master/) 
 - Online documentation: https://simpleitk.readthedocs.io/en/master/index.html
 - Website: http://www.simpleitk.org/  
+- Correspondence of filters in ITK and SimpleITK: https://itk.org/SimpleITKDoxygen/html/Filter_Coverage.html
 
 # Examples of notebooks in Medical Image Analysis
 - [pydicom + scikit-image](http://uwmsk.org/jupyter/Jupyter_DICOM_toolbox.html)
@@ -46,5 +47,6 @@ It is a web application to create documents that contain live code, equations, v
 
 # In general
 - Blogs: e.g. Stack overflow  
-- Cheat sheets: e.g. [Datacamp](https://www.datacamp.com/community/data-science-cheatsheets)
+- Cheat sheets: e.g. [Datacamp](https://www.datacamp.com/community/data-science-cheatsheets)  
+- SciPy and PyData videos on YouTube
 - Let me know if you find more tricks!
