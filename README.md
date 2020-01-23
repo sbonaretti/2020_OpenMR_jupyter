@@ -1,4 +1,4 @@
-# Python and Jupyter notebook for Medical Image Analysis
+# Python and Jupyter Notebook for Medical Image Analysis
 
 ### Workshop at [OpenMR Benelux 2020](https://openmrbenelux.github.io/page-openmrb-2020/)
 
