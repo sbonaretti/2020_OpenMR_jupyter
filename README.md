@@ -6,7 +6,7 @@
 
 In this workshop, you will learn the basics of Jupyter notebook, python, and SimpleITK 
 
-### Set up 
+## Set up 
 
 - See the video below: 
 
@@ -31,7 +31,7 @@ In this workshop, you will learn the basics of Jupyter notebook, python, and Sim
 If you have any issue during the installation, go to the top of this page, click the tab `Issue`, and open an new issue. I will be happy to reply to you. 
 
 
-### Content  
+## Content  
 
 There are two jupyter notebooks and their correspoding solutions: 
 - `1_jupyter_and_python.ipynb` and `1_jupyter_and_python_solutions.ipynb`   
