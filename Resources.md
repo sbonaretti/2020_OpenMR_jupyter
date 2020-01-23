@@ -3,8 +3,7 @@ It is a web-based interactive development environment
 - [Guide](guide.readthedocs.io/en/latest/index.html)   
 - Website: https://jupyter.org/
 - Video tutorial: [Getting Started with JupyterLab | SciPy 2019 Tutorial](https://www.youtube.com/watch?v=RFabWieskak)  
-- Extensions list: on [GitHub](https://github.com/topics/jupyterlab-extension)
-
+- How to install extensions: https://jupyterlab.readthedocs.io/en/stable/user/extensions.html
 
 # Jupyter notebook
 It is a web application to create documents that contain live code, equations, visualizations and narrative text. 
