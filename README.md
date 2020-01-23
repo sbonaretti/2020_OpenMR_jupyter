@@ -40,5 +40,6 @@ There are two jupyter notebooks and their correspoding solutions:
 In addition there is a list of links that can help you get familiar with the Jupyter environment, python, and SimpleITK:  
 - `Resources.md`
 
-
+## Video  
+Coming soon! 
 
