@@ -41,4 +41,4 @@ In addition there is a list of links that can help you get familiar with the Jup
 - `Resources.md`
 
 ## Video
-The content of the notebook `1_jupyter_and_python.ipynb` is part of the YouTube series "Jupyter notebook and python for scientists" https://www.youtube.com/watch?v=aIbvUDF0Pfg&list=PLj8QFvBykB7fGEH274TlqhToqGd_Qxt1H
+The content of the notebook `1_jupyter_and_python.ipynb` is part of the YouTube series [Jupyter notebook and python for scientists](https://www.youtube.com/watch?v=aIbvUDF0Pfg&list=PLj8QFvBykB7fGEH274TlqhToqGd_Qxt1H)
