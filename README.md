@@ -43,6 +43,6 @@ In addition there is a list of links that can help you get familiar with the Jup
 ## Video
 The content of the notebook `1_jupyter_and_python.ipynb` is explained in the YouTube series 
 <br>
-[Jupyter notebook and python for scientists](https://www.youtube.com/watch?v=aIbvUDF0Pfg&list=PLj8QFvBykB7fGEH274TlqhToqGd_Qxt1H):
+[Jupyter notebook and Python for scientists](https://www.youtube.com/watch?v=aIbvUDF0Pfg&list=PLj8QFvBykB7fGEH274TlqhToqGd_Qxt1H):
  
 <a href="https://www.youtube.com/watch?v=aIbvUDF0Pfg&list=PLj8QFvBykB7fGEH274TlqhToqGd_Qxt1H" target="_blank"><img src="img_video.png" alt="image" width="574" height="320" ></a>
